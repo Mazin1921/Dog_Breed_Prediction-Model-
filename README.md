@@ -36,4 +36,4 @@ Before we get started, since we'll be using TensorFlow 2.x and TensorFlow Hub (T
 **NOTE:** Don't run the cell below if you're already using TF 2.x.
 
 ## Deployment💫 
-Deployed using streamlit (aap.py).
+Deployed using streamlit (aap.py and train.py).
