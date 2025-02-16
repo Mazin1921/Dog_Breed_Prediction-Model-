@@ -8,13 +8,13 @@ Dogs are incredible. But have you ever been sitting at a cafe, seen a dog and no
 In this project we're going to be using machine learning to help us identify different breeds of dogs.
 # Data📊
 To do this, we'll be using data from the [Kaggle dog breed identification competition](https://www.kaggle.com/c/dog-breed-identification/overview). It consists of a collection of  10,000+ labelled images of 120 different dog breeds.
-
+# What kind of Problem it is ?🤔
 This kind of problem is called multi-class image classification. It's multi-class because we're trying to classify mutliple different breeds of dog. If we were only trying to classify dogs versus cats, it would be called binary classification (one thing versus another).
 
 Multi-class image classification is an important problem because it's the same kind of technology Tesla uses in their self-driving cars or Airbnb uses in atuomatically adding information to their listings.
 
 Since the most important step in a deep learng problem is getting the data ready (turning it into numbers), that's what we're going to start with.
-
+# Workflow 🔨
 We're going to go through the following TensorFlow/Deep Learning workflow:
 1. Get data ready (download from Kaggle, store, import).
 2. Prepare the data (preprocessing, the 3 sets, X & y).
